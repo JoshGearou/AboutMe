@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">About me</string>
+    <string name="name">Josh Gearou</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio">Hello, my name is Josh Gearou.  I am a recent graduate of Pomona College working
+                       for a large company called Verizon Media Group.  I am an associate software
+                       developer for the company.  Some of my hobbies include: playing tennis, guitar, saxophone
+                       piano, singing, and coding of course.  I also really enjoy reading fantasy books.
+                       my favorite fantasy author currently is Brandon Sanderson.  I also enjoy listening to music.
+                       My favorite singer is Tori Kelly.  \n\t\t\t\tMy next endeavor has been writing music.  In my last semester of college, I took a course
+                       called Music Theory I.  I learned a lot about writing music in the course and had
+                       a lot of fun doing it along the way.  Since then, I have continued to compose and
+                       practice composing in my spare time.  I couple this with online tutorials about
+                       music theory as well.
+                       </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+</resources>
